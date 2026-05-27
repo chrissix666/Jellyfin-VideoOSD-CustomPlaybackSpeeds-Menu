@@ -7,11 +7,11 @@ Tested on & Requirements: Windows 11, Chrome, Jellyfin Web (10.10.7), JavaScript
 Default/Vanilla ones are 11 speeds: 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2, 2.5, 3, 3.5, 4
 
 Customizes the Jellyfin Web VideoOSD playback speed menu.  
-You can define your own speed list, add custom values, remove unwanted vanilla/default entries, and keep the menu sorted.
+**<u>You can define your own speed list, add custom values, remove unwanted vanilla/default entries, and keep the menu sorted.</u>**
 
 Example speeds in the script & screenshot: 0.1, 0.25, 0.33, 0.5, 0.66, 0.75, 1, 1.25, 1.5, 1.75, 2, 2.5, 3, 3.5, 4, 5, 10
 
-<img src="Screenshot.png" width="600">
+<img src="Screenshot.png" width="300">
 
 Playback speed range: `0.0625x` - `16x`  
 Behavior depends on the Chrome/Chromium video engine, not on Jellyfin.
@@ -23,9 +23,9 @@ For practical use, the recommended minimum speed is around `0.2x` to `0.25x`.
 
 ## Features
 
-- Add custom playback speed entries.  
-- Remove unwanted vanilla/default speed entries.  
-- Unlimited speed entries possible, as long as the menu fits within the video window height.  
+- **Add custom playback speed entries.**  
+- **Remove unwanted vanilla/default speed entries.**  
+- **Unlimited speed entries possible, as long as the menu fits within the video window height.**  
 
 ---
 
