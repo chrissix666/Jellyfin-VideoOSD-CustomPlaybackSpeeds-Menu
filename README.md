@@ -1,4 +1,4 @@
-# Jellyfin VideoOSD Custom Playback Speeds
+# Jellyfin VideoOSD Custom Playback Speed
 
 !!BEFORE USE, CONFIG THE SPEEDS IN THE .js TO YOUR OWN NEEDS ON TOP FIRST!!<br>
 Screenshot & provided in the Script are only examples.
