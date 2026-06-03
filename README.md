@@ -1,3 +1,7 @@
+Overview of all my Jellyfin Web Video OSD projects: [Jellyfin-VideoOSD-Projects-Overview](https://github.com/chrissix666/Jellyfin-VideoOSD-Projects-Overview)
+
+---
+
 Note: This script is also compatible with the [Jellyfin-VideoOSD-CustomPlaybackSpeed-Buttons](https://github.com/chrissix666/Jellyfin-VideoOSD-CustomPlaybackSpeed-Buttons).
 
 # Jellyfin VideoOSD Custom Playback Speed Menu
