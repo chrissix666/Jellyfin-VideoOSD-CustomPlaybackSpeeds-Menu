@@ -1,6 +1,6 @@
 Note: This script is also compatible with the [Jellyfin-VideoOSD-CustomPlaybackSpeed-Buttons](https://github.com/chrissix666/Jellyfin-VideoOSD-CustomPlaybackSpeed-Buttons).
 
-# Jellyfin VideoOSD Custom Playback Speed
+# Jellyfin VideoOSD Custom Playback Speed Menu
 
 !!BEFORE USE, CONFIG THE SPEEDS IN THE .js TO YOUR OWN NEEDS ON TOP FIRST!!<br>
 Screenshot & provided in the Script are only examples.
